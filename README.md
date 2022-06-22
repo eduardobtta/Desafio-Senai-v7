@@ -5,3 +5,5 @@ esta perfeito
 lembra do comando: git status
 
 teste 3 novo branch
+lembrando do comando: git status
+
